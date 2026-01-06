@@ -17,4 +17,4 @@ spec:
         cpu: "700m"
       requests:
         memory: "200Mi"
-        cpu: "700m"
+        cpu: "800m"
